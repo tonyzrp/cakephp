@@ -1,3 +1,7 @@
 [submodule "app/Plugin/DebugKit"]
 	path = app/Plugin/DebugKit
 	url = git://github.com/cakephp/debug_kit.git
+
+[submodule "lib/Cake/Console/Templates/skel/Plugin/DebugKit"]
+	path = lib/Cake/Console/Templates/skel/Plugin/DebugKit
+	url = git://github.com/cakephp/debug_kit.git
